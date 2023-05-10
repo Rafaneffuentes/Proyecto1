@@ -264,10 +264,10 @@ footer .contacto  input[type="submit"]:hover{
 
 @media screen and (max-width: 500px){
     header .contenido-header .titulo-header{
-        font-size:40px;
+        font-size:10px;
     }
     main .quehacemos .contenido-cajas .tarjeta{
-       width: 48%;
+       width: 10%;
     }
     main .contenido-cajas{
         justify-content: center
@@ -279,7 +279,7 @@ footer .contacto  input[type="submit"]:hover{
 
 @media screen and (max-width: 350px){
     main .quehacemos .contenido-cajas .tarjeta{
-        width: 98%;
+        width: 10%;
     }
     header .contenido-header .texto-header{
         font-size:15px;
