@@ -11,7 +11,7 @@ body{
 }
 
 .contenedor{
-    width: 90%;
+    width: 80%;
     max-width: 1000px;
     overflow: hidden;
     margin: auto;
@@ -54,7 +54,7 @@ header .contenido-header{
 header .contenido-header .titulo-header{
     font-size: 120px;
     text-align: center;
-    color: #fff;
+    color: #85e213;
     text-align: center;
 }
 
@@ -89,7 +89,10 @@ header .contenido-header .action-header:hover{
     background: #15a4fa;
     color: #fff;
 }
-
+header .contenido-logo  .action-header:hover{
+    background: #18f111;
+    color: #fff;
+}
 main .quienes{
     background: #f0f3f5;
     padding:60px 0;
