@@ -121,16 +121,16 @@ main .contenido-cajas{
 }
 
 main .quehacemos .contenido-cajas .tarjeta{
-    width: 30%;
+    width: 33%;
     text-align: center;
 }
 
 main .quehacemos .contenido-cajas .tarjeta .contenido-tarjeta .titulo-tarjeta{
-    margin:10px 0;   
+    margin:10Px 0;   
 }
 
 main .portafolio{
-    background: #f0f3f5;
+    background: #24638d;
     padding: 60px 0;
 }
 
